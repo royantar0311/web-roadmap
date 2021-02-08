@@ -12,6 +12,9 @@ Feel free to create issues and contribute to these resource folders and also to 
     <summary> Videos </summary>
         <ol>
             <li><a href=[1]> Web Boost </a></li>
+            <li><a href=[3]> Roadmap 2021 </a></li>
+            <li><a href=[4]> Roadmap 2020 </a></li>
+            <li><a href=[5]> Roadmap 2018 </a></li>
         </ol>
 </details>
 
@@ -65,3 +68,9 @@ git push origin new_branch
 [1]: https://youtu.be/o7AowuYQH8E
 
 [2]: http://blog.devskill.com/preparation-for-computer-science-students/#page:~:text=%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE%20%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC%20%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A6%B0%20%E0%A6%B9%E0%A6%A4%E0%A7%87%20%E0%A6%9A%E0%A6%BE%E0%A6%A8%20%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%20%E0%A6%95%E0%A6%BF%20%E0%A6%95%E0%A6%BF%20%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%AC%E0%A7%87%E0%A6%A8%2C%20%E0%A6%95%E0%A6%96%E0%A6%A8%20%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%AC%E0%A7%87%E0%A6%A8%E0%A5%A4
+
+[3]: https://youtu.be/Mo-xpbvPCho
+
+[4]: https://youtu.be/iPn31qRmb1A
+
+[5]: https://youtu.be/6mIb0W6_dIY
