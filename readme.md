@@ -1,11 +1,11 @@
 # How to become a web developer in 2021
 
-below there is an image that has a few tools/technologies/frameworks to learn to be a web dev in 2021
+Below there is an image that has a few tools/technologies/frameworks to learn to be a web dev in 2021
 ![hello](web.png)
 
 # Resources
 
-In the folders there will be resources to learn a tool/technology .
+In the folders there will be resources to learn a tool/technology.
 Feel free to create issues and contribute to these resource folders and also to the roadmap.
 
 # Contribution Guide
