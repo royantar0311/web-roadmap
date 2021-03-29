@@ -3,6 +3,9 @@
 Below there is an image that has a few tools/technologies/frameworks to learn to be a web dev in 2021
 ![hello](web.png)
 
+## [Git and Github Youtube Playlist](https://youtube.com/playlist?list=PLocl9nMPHlnb-TO6AT0kMZc9LUZwrH4qy)
+
+
 # Resources
 
 In the folders there will be resources to learn a tool/technology.
